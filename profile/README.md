@@ -25,3 +25,15 @@ Aplikasi ini saat ini masih dalam tahap pengembangan dan akan terus diperbarui d
 2. **Ambil Foto Tanaman**: Ambil foto bagian tanaman yang menunjukkan gejala penyakit.
 3. **Analisis**: Aplikasi akan memproses gambar dan memberikan hasil deteksi penyakit tanaman.
 4. **Lihat Rekomendasi**: Ikuti rekomendasi pengobatan yang diberikan untuk menangani penyakit tanaman tersebut.
+
+## Pengembang Aplikasi
+
+|                      | Learning Path      | Current Study                         |
+| -------------------- | ------------------ | ------------------------------------- |
+| **Dina Lestari**     | Machine Learning   | Informatika @ Universitas Siliwangi   |
+| **Aji Ahmad B.**     | Mobile Development | Informatika @ Universitas Perjuangan  |
+| **Nurfian Qodar**    | Cloud Computing    | Agroteknologi @ Universitas Siliwangi |
+| **Guna Gumilar**     | Machine Learning   | Informatika @ Universitas Siliwangi   |
+| **Ahmaz Zaki**       | Cloud Computing    | Informatika @ Universitas Perjuangan  |
+| **Galang Riarulhaq** | Mobile Development | Informatika @ Universitas Siliwangi   |
+| **Hilda Oktaviani**  | Machine Learning   | Informatika @ Universitas Siliwangi   |
